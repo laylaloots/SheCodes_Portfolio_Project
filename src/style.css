@@ -86,7 +86,6 @@ p {
   border: 10px solid white;
   border-radius: 1px;
   box-shadow: var(--box-shadow);
-  margin: 20px;
 }
 
 @media (max-width: 576px) {
@@ -111,5 +110,9 @@ p {
   .app-link {
     display: block;
     text-align: center;
+  }
+
+  .image-decoration {
+    margin-bottom: 25px;
   }
 }
